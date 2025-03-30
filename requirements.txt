@@ -1,0 +1,8 @@
+requests
+python-dotenv
+groq
+openai
+time
+pandas
+matplotlib.pyplot
+tabulate
